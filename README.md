@@ -1,3 +1,10 @@
+DEDICATED BRANCH
+================
+This branch has been created by [@AlchemyCS](https://github.com/alchemycs) to manager his own dedicated `ardpicprog`.
+You should take a look at [the original by rweather](https://github.com/rweather/ardpicprog) or [my master branch](https://github.com/alchemycs/ardpicprog)
+
+I have an arduino with a busted D7 port, so I have turned that into a dedicated `ardpicprog` with the firmware and hardware reconfigured to use the
+D6 port. This branch is just to maintain that so I can easily merge updates into it and (hopefully) contribute back to the main project.
 
 Arduino-based PIC programmer
 ============================
