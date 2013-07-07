@@ -21,7 +21,7 @@ for more information on the project.
 
 ## Obtaining ardpicprog
 
-The sources for Plang are available from the project
+The sources for `ardpicprog` are available from the project
 [git repository](https://github.com/rweather/ardpicprog).  Then read the
 [installation instructions](http://rweather.github.com/ardpicprog/installation.html).
 
