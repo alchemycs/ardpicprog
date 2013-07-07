@@ -23,7 +23,7 @@
 #define PIN_ACTIVITY    A5      // LED that indicates read/write activity
 #define PIN_VDD         2       // Controls the power to the PIC
 #define PIN_CLOCK       4       // Clock pin
-#define PIN_DATA        7       // Data pin
+#define PIN_DATA        6       // Data pin
 
 #define MCLR_RESET      HIGH    // PIN_MCLR state to reset the PIC
 #define MCLR_VPP        LOW     // PIN_MCLR state to apply 13v to MCLR/VPP pin
